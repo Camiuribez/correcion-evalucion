@@ -110,3 +110,6 @@ header .overlay {
     display: none;
   }
 }
+#novedad{
+  overflow: hidden;
+}
